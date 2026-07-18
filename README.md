@@ -154,7 +154,7 @@ http://127.0.0.1:8000
 **Asad Rafeeq**
 
 - GitHub: https://github.com/Asad3533
-- LinkedIn: *(Add your LinkedIn URL)*
+- LinkedIn: www.linkedin.com/in/asad-rafeeq-b95930268
 - Email: ar2366296@gmail.com
 
 ---
