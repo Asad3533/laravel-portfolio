@@ -2,9 +2,7 @@
 
 A modern and responsive personal portfolio website built with **Laravel 12** and **Bootstrap 5** to showcase my projects, technical skills, resume, and contact information.
 
-## 📸 Preview
 
-> *(Add a screenshot of your homepage here after deployment.)*
 
 ---
 
